@@ -9,14 +9,16 @@ Link : https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hc
 
 ## Personal ID project
 (Flutter Tutorial for Beginners #15)
+
 Screen Shots
 
+<img src= "https://user-images.githubusercontent.com/33981880/220350317-9deafc04-55e7-4366-9b28-894d9846abdf.jpg"  width="18%">
 
 
 ## World Time App 
 (Flutter Tutorial for Beginners #22 ~ #35)
 
-Demo Vedio
+Demo Video
 
 https://user-images.githubusercontent.com/33981880/220316831-2fc5ed74-52fb-4bba-91e6-221b4f9496e4.mp4
 
